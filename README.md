@@ -1,8 +1,9 @@
 ## Fala!! eu sou o Bernardo Rodrigues, estudante de desenvolvimento web fullstack!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brodrigues0ll&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues0ll&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div style="display: inline_block"><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brodrigues0ll&theme=dark&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues0ll&theme=dark">  
+</div>
+  
 <div style="display: inline_block"><br>
   <h1>👇🏽 My Skills!! 👇🏽 (LOADING...)</h1>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
