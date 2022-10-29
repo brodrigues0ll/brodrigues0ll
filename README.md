@@ -7,7 +7,6 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues0ll&langs_count=8&theme=dark&layout=compact"><br>    
 </div>
 
-<img src="https://wakatime.com/badge/user/a2eb0904-b2b6-4693-8ab5-b262965c2e47.svg" alt="wakatime" />
 <div style="display: inline_block"><br>
   <h1>👇🏽 My Skills!! 👇🏽 (LOADING...)</h1>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
