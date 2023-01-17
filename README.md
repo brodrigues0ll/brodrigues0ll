@@ -2,6 +2,8 @@
 
 ## Fala!! eu sou o Bernardo Rodrigues, estudante de desenvolvimento web fullstack!
 
+Sou um desenvolvedor front-end com experiência em desenvolvimento de aplicativos web. Possuo habilidades sólidas em HTML, CSS e JavaScript, além de experiência com frameworks modernos como React e NextJs. Sou capaz de criar interfaces de usuário atraentes e interativas, além de garantir a compatibilidade com diferentes dispositivos e navegadores. Adoro trabalhar em equipe e sempre busco maneiras de aprimorar minhas habilidades e aumentar minha eficiência.
+
 <div style="display: inline_block"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=brodrigues0ll&theme=dark&show_icons=true">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodrigues0ll&langs_count=8&theme=dark&layout=compact"><br>    
