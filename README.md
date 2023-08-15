@@ -1,6 +1,5 @@
 # 💫 About Me:
-<img src="https://flagpedia.net/data/flags/emoji/apple/160x160/um.png" alt="US" width="50" height="50">
-<br></br>
+<img src="https://flagpedia.net/data/flags/emoji/apple/160x160/um.png" alt="US" width="50" height="10">
 Hello, I'm Bernardo Rodrigues.
 I am a highly dedicated front-end developer who is passionate about turning creative concepts into digital reality. My professional journey has provided me with the opportunity to collaborate on various challenging projects, enhancing my skills and knowledge with each step. In addition to my strong abilities in HTML, CSS, and JavaScript, I possess a deep understanding of best practices in interface design and usability.
 My experience with modern frameworks like React and Next.js has expanded my ability to create high-performance and responsive web applications. I have a keen eye for details that make all the difference in user experience, ensuring that each element of the interface is not only functional but also aesthetically pleasing.
