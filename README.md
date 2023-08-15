@@ -1,4 +1,5 @@
-# 💫 About Me: 🇺🇸
+# 💫 About Me: ![image](https://github.com/brodrigues0ll/brodrigues0ll/assets/99976254/a88bedad-18e3-422d-bcbc-5b9f25afd24a)
+
 Hello, I'm Bernardo Rodrigues.
 I am a highly dedicated front-end developer who is passionate about turning creative concepts into digital reality. My professional journey has provided me with the opportunity to collaborate on various challenging projects, enhancing my skills and knowledge with each step. In addition to my strong abilities in HTML, CSS, and JavaScript, I possess a deep understanding of best practices in interface design and usability.
 
